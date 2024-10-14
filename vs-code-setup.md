@@ -4,7 +4,10 @@ I show how to set up VS Code with these themes, extensions and settings in the f
 
 ### Theme
 
-I use the `One Monokai` in all the course videos. This is a free theme, similar to my personal favourite Monokai Pro. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
+I use the `Monokai Pro` in all the course videos. This is a freemium theme. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+
+### Icons theme
+I use the `Material Icons` in all the course videos. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ### Extensions
 
@@ -19,6 +22,8 @@ I use the `One Monokai` in all the course videos. This is a free theme, similar 
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 `Live Server` to create a live preview for the current project. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+`Live Sass Compiler By Glenn Marks` to compile sass to css for the current project. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
 
 ### Settings
 
